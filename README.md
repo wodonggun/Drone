@@ -54,5 +54,5 @@
  ![img](https://img1.daumcdn.net/thumb/R1920x0/?fname=http%3A%2F%2Fcfile4.uf.tistory.com%2Fimage%2F23494F455910B4CC0EE24C)
 
  - 모터속도, 좌우 조절 컨트롤 `command , type = 150 `
- - LOCK, Emergency 버튼 `request, 151(emergenct), 152(LOCK)
+ - Lock, Emergency 버튼 : request, 151(Emergency), 152(Lock)
  
